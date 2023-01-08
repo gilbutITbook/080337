@@ -4,26 +4,26 @@ import java.util.List;
 
 public class Solution {
     private static class Point {
-        public final int x, y;
+        public final long x, y;
 
-        private Point(int x, int y) {
+        private Point(long x, long y) {
             this.x = x;
             this.y = y;
         }
     }
 
-    private Point intersection(int a1, int b1, int c1, int a2, int b2, int c2) {
+    private Point intersection(long a1, long b1, long c1, long a2, long b2, long c2) {
         double x = (double) (b1 * c2 - b2 * c1) / (a1 * b2 - a2 * b1);
         double y = (double) (a2 * c1 - a1 * c2) / (a1 * b2 - a2 * b1);
 
         if (x % 1 != 0 || y % 1 != 0) return null;
 
-        return new Point((int) x, (int) y);
+        return new Point((long) x, (long) y);
     }
 
     private Point getMinimumPoint(List<Point> points) {
-        int x = Integer.MAX_VALUE;
-        int y = Integer.MAX_VALUE;
+        long x = Long.MAX_VALUE;
+        long y = Long.MAX_VALUE;
 
         for (Point p : points) {
             if (p.x < x) x = p.x;
@@ -34,8 +34,8 @@ public class Solution {
     }
 
     private Point getMaximumPoint(List<Point> points) {
-        int x = Integer.MIN_VALUE;
-        int y = Integer.MIN_VALUE;
+        long x = Long.MIN_VALUE;
+        long y = Long.MIN_VALUE;
 
         for (Point p : points) {
             if (p.x > x) x = p.x;
@@ -44,7 +44,6 @@ public class Solution {
 
         return new Point(x, y);
     }
-
 
     public String[] solution(int[][] line) {
         List<Point> points = new ArrayList<>();
@@ -60,8 +59,8 @@ public class Solution {
         Point minimum = getMinimumPoint(points);
         Point maximum = getMaximumPoint(points);
 
-        int width = maximum.x - minimum.x + 1;
-        int height = maximum.y - minimum.y + 1;
+        int width = (int) (maximum.x - minimum.x + 1);
+        int height = (int) (maximum.y - minimum.y + 1);
 
         char[][] arr = new char[height][width];
         for (char[] row : arr) {
@@ -69,9 +68,8 @@ public class Solution {
         }
 
         for (Point p : points) {
-            int x = p.x - minimum.x;
-            int y = maximum.y - p.y;
-
+            int x = (int) (p.x - minimum.x);
+            int y = (int) (maximum.y - p.y);
             arr[y][x] = '*';
         }
 
