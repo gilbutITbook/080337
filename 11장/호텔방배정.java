@@ -55,8 +55,6 @@ public class Solution {
                 number = nodes.get(number).max() + 1;
             }
 
-            // number 방 실제 배정하기
-
             Node node = new Node(number);
             nodes.put(number, node);
             if (nodes.containsKey(number - 1)) {
