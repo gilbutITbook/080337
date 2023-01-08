@@ -1,6 +1,4 @@
-package string;
-
-public class P12916Opt {
+public class Solution {
     boolean solution(String s) {
 		int ps = 0;
 		int ys = 0;
