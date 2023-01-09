@@ -68,71 +68,70 @@
 [35. A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) </br>
 [36. 없는 숫자 더하기 - Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/86051) </br>
 [37. 완주하지 못한 선수 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/42576) </br>
-[38. 신고 결과 받기 - Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) </br>
 
 
 #### 10장. 동적 프로그래밍
 
-[39. 피보나치 수 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/12945) </br>
-[40. 정수 삼각형 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/43105) </br>
-[41. 등굣길 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42898) </br>
-[42. 사칙연산 - Level 4](https://school.programmers.co.kr/learn/courses/30/lessons/1843) </br>
+[38. 피보나치 수 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/12945) </br>
+[39. 정수 삼각형 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/43105) </br>
+[40. 등굣길 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42898) </br>
+[41. 사칙연산 - Level 4](https://school.programmers.co.kr/learn/courses/30/lessons/1843) </br>
 
 
 #### 11장. 자주 등장하는 자료 구조
 
 
-[43. 올바른 괄호 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/12909) </br>
-[44. 괄호 회전하기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/76502) </br>
-[45. 주식 가격 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42584) </br>
-[46. 기능 개발 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42586) </br>
-[47. 다리를 지나는 트럭 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42583) </br>
-[48. 순위 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/49191) </br>
-[49. 방의 개수 - Level 5](https://programmers.co.kr/learn/courses/30/lessons/49190) </br>
-[50. 길 찾기 게임 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42892) </br>
-[51. 이중 우선순위 큐 - Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628) </br>
-[52. 디스크 컨트롤러 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42627) </br>
-[53. 보석 쇼핑 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) </br>
-[54. 섬 연결하기 - Level. 3](https://school.programmers.co.kr/learn/courses/30/lessons/42861) </br>
-[55. 호텔 방 배정 - Level 4](https://programmers.co.kr/learn/courses/30/lessons/64063) </br>
-[56. 가사 검색 - Level 4](https://school.programmers.co.kr/learn/courses/30/lessons/60060) </br>
+[42. 올바른 괄호 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/12909) </br>
+[43. 괄호 회전하기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/76502) </br>
+[44. 주식 가격 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42584) </br>
+[45. 기능 개발 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42586) </br>
+[46. 다리를 지나는 트럭 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42583) </br>
+[47. 순위 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/49191) </br>
+[48. 방의 개수 - Level 5](https://programmers.co.kr/learn/courses/30/lessons/49190) </br>
+[49. 길 찾기 게임 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42892) </br>
+[50. 이중 우선순위 큐 - Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628) </br>
+[51. 디스크 컨트롤러 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42627) </br>
+[52. 보석 쇼핑 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/67258) </br>
+[53. 섬 연결하기 - Level. 3](https://school.programmers.co.kr/learn/courses/30/lessons/42861) </br>
+[54. 호텔 방 배정 - Level 4](https://programmers.co.kr/learn/courses/30/lessons/64063) </br>
+[55. 가사 검색 - Level 4](https://school.programmers.co.kr/learn/courses/30/lessons/60060) </br>
 
 
 #### 12장. 구현
 
-[57. 스킬트리 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/49993) </br>
-[58. 키패드 누르기 - Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) </br> 
-[59. 타겟 넘버 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/43165) </br>
-[60. 네트워크 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/43162) </br>
-[61. 단어 변환 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/43163) </br>
-[62. 게임 맵 최단거리 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/1844) </br>
-[63. 체육복 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/42862) </br>
-[64. 큰 수 만들기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) </br>
-[65. 단속카메라 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42884) </br>
+[56. 스킬트리 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/49993) </br>
+[57. 키패드 누르기 - Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/67256) </br> 
+[58. 타겟 넘버 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/43165) </br>
+[59. 네트워크 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/43162) </br>
+[60. 단어 변환 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/43163) </br>
+[61. 게임 맵 최단거리 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/1844) </br>
+[62. 체육복 - Level 1](https://programmers.co.kr/learn/courses/30/lessons/42862) </br>
+[63. 큰 수 만들기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) </br>
+[64. 단속카메라 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/42884) </br>
 
 
 
 #### 13장. 도전: 카카오 2022 블라인드 테스트
 
-[66. 신고 결과 받기 - Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) </br>
-[67. k진수에서 소수 개수 구하기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)</br>
-[68. 주차 요금 계산 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/92341)</br>
-[79. 양궁대회 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/92342)</br>
-[70. 양과 늑대 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/92343)</br>
-[71. 파괴되지 않은 건물 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/92344)</br>
-[72. 사라지는 발판 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/92345)</br>
+[65. 신고 결과 받기 - Level 1](https://school.programmers.co.kr/learn/courses/30/lessons/92334) </br>
+[66. k진수에서 소수 개수 구하기 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/92335)</br>
+[67. 주차 요금 계산 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/92341)</br>
+[68. 양궁대회 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/92342)</br>
+[69. 양과 늑대 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/92343)</br>
+[70. 파괴되지 않은 건물 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/92344)</br>
+[71. 사라지는 발판 - Level 3](https://school.programmers.co.kr/learn/courses/30/lessons/92345)</br>
 
 
 #### 14장. 코딩 전문 역량 인증 시험, PCCP 모의고사
 
-[73. 외톨이 알파벳 - Level 1](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)</br>
-[74. 체육대회 - Level 2](https://school.programmers.co.kr/learn/courses/15008/lessons/121684)</br>
-[75. 유전법칙 - Level 2](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)</br>
-[76. 운영체제 - Level 3](https://school.programmers.co.kr/learn/courses/15008/lessons/121686)</br>
-[77. 실습용 로봇 - Level 1](https://school.programmers.co.kr/learn/courses/15009/lessons/121687)</br>
-[78. 신입사원 교육 - Level 2](https://school.programmers.co.kr/learn/courses/15009/lessons/121688)</br>
-[79. 카페 확장 - Level 2](https://school.programmers.co.kr/learn/courses/15009/lessons/121689)</br>
-[80. 보물 지도 - Level 3](https://school.programmers.co.kr/learn/courses/15009/lessons/121690)</br>
+[72. 외톨이 알파벳 - Level 1](https://school.programmers.co.kr/learn/courses/15008/lessons/121683)</br>
+[73. 체육대회 - Level 2](https://school.programmers.co.kr/learn/courses/15008/lessons/121684)</br>
+[74. 유전법칙 - Level 2](https://school.programmers.co.kr/learn/courses/15008/lessons/121685)</br>
+[75. 운영체제 - Level 3](https://school.programmers.co.kr/learn/courses/15008/lessons/121686)</br>
+[76. 실습용 로봇 - Level 1](https://school.programmers.co.kr/learn/courses/15009/lessons/121687)</br>
+[77. 신입사원 교육 - Level 2](https://school.programmers.co.kr/learn/courses/15009/lessons/121688)</br>
+[78. 카페 확장 - Level 2](https://school.programmers.co.kr/learn/courses/15009/lessons/121689)</br>
+[79. 보물 지도 - Level 3](https://school.programmers.co.kr/learn/courses/15009/lessons/121690)</br>
 
 
 
