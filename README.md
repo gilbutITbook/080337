@@ -64,7 +64,7 @@
 #### 9장. 해시
 
 [33. 평행 - Level 0](https://school.programmers.co.kr/learn/courses/30/lessons/120875) </br>
-[33번 문제 교체 - 평행 문제의 테스트 케이스가 교체되어 해시로 풀 수 없어 문제를 교체합니다. - 문제 풀이는 길벗출판사 홈페이지에서 도서 검색 후 자료실에서 볼 수 있습니다.]
+'33번 문제 교체 - 평행 문제의 테스트 케이스가 교체되어 해시로 풀 수 없어 문제를 교체합니다. - 문제 풀이는 [길벗출판사 홈페이지에서 도서 검색 후 자료실](https://www.gilbut.co.kr/book/view?bookcode=BN003664#bookData)의 '정오표' 볼 수 있습니다.'</br>
 [교체된 33. 전화번호 목록 - Level 2](https://school.programmers.co.kr/learn/courses/30/lessons/42577)</br>
 
 [34. 중복된 문자 제거 - Level 0](https://school.programmers.co.kr/learn/courses/30/lessons/120888) </br>
